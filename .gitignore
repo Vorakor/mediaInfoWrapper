@@ -1,0 +1,4 @@
+admin/installers/
+*.pyc
+.DS_Store
+unixExecutables/

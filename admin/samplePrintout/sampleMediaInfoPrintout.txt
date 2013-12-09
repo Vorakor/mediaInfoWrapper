@@ -1,0 +1,250 @@
+cwd: /Volumes/Congo/RESOURCE/UMS/exe  sberube$ mediainfo -f /Volumes/Congo/fluxArt/gospelLibraryAwareness2013/admin/Apple\ Pro\ Res\ 422\ HQ/BathroomShot_stillDevice1.mov 
+General
+Count                                    : 285
+Count of stream of this kind             : 1
+Kind of stream                           : General
+Kind of stream                           : General
+Stream identifier                        : 0
+Count of video streams                   : 1
+Count of audio streams                   : 1
+OtherCount                               : 1
+Video_Format_List                        : ProRes
+Video_Format_WithHint_List               : ProRes
+Codecs Video                             : apch
+Video_Language_List                      : English
+Audio_Format_List                        : PCM
+Audio_Format_WithHint_List               : PCM
+Audio codecs                             : PCM
+Audio_Language_List                      : English
+Other_Format_List                        : QuickTime TC
+Other_Format_WithHint_List               : QuickTime TC
+Other_Language_List                      : English
+Complete name                            : /Volumes/Congo/fluxArt/gospelLibraryAwareness2013/admin/Apple Pro Res 422 HQ/BathroomShot_stillDevice1.mov
+Folder name                              : /Volumes/Congo/fluxArt/gospelLibraryAwareness2013/admin/Apple Pro Res 422 HQ
+File name                                : BathroomShot_stillDevice1
+File extension (Type??)                  : mov
+Format                                   : MPEG-4
+Format                                   : MPEG-4
+Format/Extensions usually used           : mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v
+Commercial name                          : MPEG-4
+Format profile                           : QuickTime
+Internet media type                      : video/mp4
+Codec ID                                 : qt  
+Codec ID/Url                             : http://www.apple.com/quicktime/download/standalone.html
+Codec                                    : MPEG-4
+Codec                                    : MPEG-4
+Codec/Extensions usually used            : mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v
+File size (Size in bytes)                : 37023317
+File size                                : 35.3 MiB
+File size                                : 35 MiB
+File size                                : 35 MiB
+File size                                : 35.3 MiB
+File size                                : 35.31 MiB
+Duration (Duration in ms)                : 3962
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 00:00:03.962
+Overall bit rate mode                    : VBR
+Overall bit rate mode                    : Variable
+Overall bit rate (Average mux rate)      : 74756824
+Overall bit rate                         : 74.8 Mbps
+Stream size                              : 11053
+Stream size                              : 10.8 KiB (0%)
+Stream size                              : 11 KiB
+Stream size                              : 11 KiB
+Stream size                              : 10.8 KiB
+Stream size                              : 10.79 KiB
+Stream size                              : 10.8 KiB (0%)
+Proportion of this stream                : 0.00030
+HeaderSize                               : 40
+DataSize                                 : 37015944
+FooterSize                               : 7333
+IsStreamable                             : No
+Encoded date                             : UTC 2013-06-04 20:24:36
+Tagged date                              : UTC 2013-06-04 20:24:37
+File last modification date              : UTC 2013-06-04 20:24:37
+File last modification date (local)      : 2013-06-04 14:24:37
+Writing library                          : Apple QuickTime
+Writing library                          : Apple QuickTime
+Writing library/Name                     : Apple QuickTime
+Media/UUID                               : 45A8BDCD-3627-48F4-AC6A-42E709918174
+
+Video
+Count                                    : 266
+Count of stream of this kind             : 1
+Kind of stream                           : Video
+Kind of stream                           : Video
+Stream identifier                        : 0
+StreamOrder                              : 0
+ID                                       : 1
+ID                                       : 1
+Format                                   : ProRes
+Commercial name                          : ProRes
+Format version                           : Version 0
+Format profile                           : High
+Codec ID                                 : apch
+Codec ID/Url                             : http://www.apple.com/quicktime/download/standalone.html
+Codec                                    : apch
+Codec                                    : apch
+Codec/CC                                 : apch
+Duration                                 : 3962
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 00:00:03.962
+Bit rate mode                            : VBR
+Bit rate mode                            : Variable
+Bit rate                                 : 73192931
+Bit rate                                 : 73.2 Mbps
+Width                                    : 1888
+Width                                    : 1 888 pixels
+Original width                           : 1920
+Original width                           : 1 920 pixels
+Height                                   : 1062
+Height                                   : 1 062 pixels
+Original height                          : 1080
+Original height                          : 1 080 pixels
+Pixel aspect ratio                       : 1.000
+Display aspect ratio                     : 1.778
+Display aspect ratio                     : 16:9
+Rotation                                 : 0.000
+Frame rate mode                          : CFR
+Frame rate mode                          : Constant
+Frame rate                               : 23.976
+Frame rate                               : 23.976 fps
+Frame count                              : 95
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 1.523
+Delay                                    : 3752917
+Delay                                    : 1h 2mn
+Delay                                    : 1h 2mn 32s 917ms
+Delay                                    : 1h 2mn
+Delay                                    : 01:02:32.917
+Delay_Settings                           : DropFrame=No / 24HourMax=No / IsVisual=No
+Delay_DropFrame                          : No
+Delay, origin                            : Container
+Delay, origin                            : Container
+Stream size                              : 36251504
+Stream size                              : 34.6 MiB (98%)
+Stream size                              : 35 MiB
+Stream size                              : 35 MiB
+Stream size                              : 34.6 MiB
+Stream size                              : 34.57 MiB
+Stream size                              : 34.6 MiB (98%)
+Proportion of this stream                : 0.97915
+Writing library                          : Apple
+Writing library                          : Apple
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2013-06-04 20:24:36
+Tagged date                              : UTC 2013-06-04 20:24:37
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+Count                                    : 222
+Count of stream of this kind             : 1
+Kind of stream                           : Audio
+Kind of stream                           : Audio
+Stream identifier                        : 0
+StreamOrder                              : 1
+ID                                       : 2
+ID                                       : 2
+Format                                   : PCM
+Commercial name                          : PCM
+Format settings                          : Little / Signed
+Format settings, Endianness              : Little
+Format settings, Sign                    : Signed
+Codec ID                                 : sowt
+Codec ID/Url                             : http://www.apple.com/quicktime/download/standalone.html
+Codec                                    : PCM
+Codec                                    : PCM
+Codec/Family                             : PCM
+Codec/Url                                : http://www.apple.com/quicktime/download/standalone.html
+Codec/CC                                 : sowt
+Codec settings                           : Little / Signed
+Codec settings, Endianness               : Little
+Codec settings, Sign                     : Signed
+Duration                                 : 3962
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 00:00:03.962
+Bit rate mode                            : CBR
+Bit rate mode                            : Constant
+Bit rate                                 : 1536000
+Bit rate                                 : 1 536 Kbps
+Channel count                            : 2
+Channel count                            : 2 channels
+Channel positions                        : Front: L R
+ChannelLayout                            : L R
+Sampling rate                            : 48000
+Sampling rate                            : 48.0 KHz
+Samples count                            : 190176
+Resolution                               : 16
+Resolution                               : 16 bits
+Bit depth                                : 16
+Bit depth                                : 16 bits
+Delay                                    : 3752917
+Delay                                    : 1h 2mn
+Delay                                    : 1h 2mn 32s 917ms
+Delay                                    : 1h 2mn
+Delay                                    : 01:02:32.917
+Delay_DropFrame                          : No
+Delay, origin                            : Container
+Delay, origin                            : Container
+Delay relative to video                  : 0
+Video0 delay                             : 0
+Stream size                              : 760760
+Stream size                              : 743 KiB (2%)
+Stream size                              : 743 KiB
+Stream size                              : 743 KiB
+Stream size                              : 743 KiB
+Stream size                              : 742.9 KiB
+Stream size                              : 743 KiB (2%)
+Proportion of this stream                : 0.02055
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2013-06-04 20:24:36
+Tagged date                              : UTC 2013-06-04 20:24:37
+
+Other
+Count                                    : 60
+Count of stream of this kind             : 1
+Kind of stream                           : Other
+Kind of stream                           : Other
+Stream identifier                        : 0
+StreamOrder                              : 2
+ID                                       : 3
+ID                                       : 3
+Type                                     : Time code
+Format                                   : QuickTime TC
+Commercial name                          : QuickTime TC
+Duration                                 : 3962
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 3s 962ms
+Duration                                 : 00:00:03.962
+Time code of first frame                 : 01:02:32:22
+Time code settings                       : Striped
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2013-06-04 20:24:37
+Tagged date                              : UTC 2013-06-04 20:24:37

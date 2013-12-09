@@ -1,0 +1,133 @@
+General
+Count                                    : 284
+Count of stream of this kind             : 1
+Kind of stream                           : General
+Kind of stream                           : General
+Stream identifier                        : 0
+Count of video streams                   : 1
+Video_Format_List                        : ProRes
+Video_Format_WithHint_List               : ProRes
+Codecs Video                             : apch
+Video_Language_List                      : English
+Complete name                            : /Volumes/Congo/fluxArt/newTest_coreMedia_2013/Jan13/2d/NT111_05/source/orig/NT111_05_2K_proRes.mov
+Folder name                              : /Volumes/Congo/fluxArt/newTest_coreMedia_2013/Jan13/2d/NT111_05/source/orig
+File name                                : NT111_05_2K_proRes
+File extension                           : mov
+Format                                   : MPEG-4
+Format                                   : MPEG-4
+Format/Extensions usually used           : mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v
+Commercial name                          : MPEG-4
+Format profile                           : QuickTime
+Format settings                          : Compressed header
+Internet media type                      : video/mp4
+Codec ID                                 : qt  
+Codec ID/Url                             : http://www.apple.com/quicktime/download/standalone.html
+Codec                                    : MPEG-4
+Codec                                    : MPEG-4
+Codec/Extensions usually used            : mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v
+Codec settings                           : Compressed header
+File size                                : 1550240346
+File size                                : 1.44 GiB
+File size                                : 1 GiB
+File size                                : 1.4 GiB
+File size                                : 1.44 GiB
+File size                                : 1.444 GiB
+Duration                                 : 50167
+Duration                                 : 50s 167ms
+Duration                                 : 50s 167ms
+Duration                                 : 50s 167ms
+Duration                                 : 00:00:50.167
+Overall bit rate mode                    : VBR
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 247212765
+Overall bit rate                         : 247 Mbps
+Stream size                              : 9066
+Stream size                              : 8.85 KiB (0%)
+Stream size                              : 9 KiB
+Stream size                              : 8.9 KiB
+Stream size                              : 8.85 KiB
+Stream size                              : 8.854 KiB
+Stream size                              : 8.85 KiB (0%)
+Proportion of this stream                : 0.00001
+HeaderSize                               : 9042
+DataSize                                 : 1550231304
+FooterSize                               : 0
+IsStreamable                             : Yes
+Encoded date                             : UTC 2013-01-29 21:05:37
+Tagged date                              : UTC 2013-01-29 21:06:21
+File last modification date              : UTC 2013-01-29 21:06:21
+File last modification date (local)      : 2013-01-29 14:06:21
+Writing library                          : Apple QuickTime
+Writing library                          : Apple QuickTime
+Writing library/Name                     : Apple QuickTime
+
+Video
+Count                                    : 264
+Count of stream of this kind             : 1
+Kind of stream                           : Video
+Kind of stream                           : Video
+Stream identifier                        : 0
+StreamOrder                              : 0
+ID                                       : 1
+ID                                       : 1
+Format                                   : ProRes
+Commercial name                          : ProRes
+Format version                           : Version 0
+Format profile                           : High
+Codec ID                                 : apch
+Codec ID/Url                             : http://www.apple.com/quicktime/download/standalone.html
+Codec                                    : apch
+Codec                                    : apch
+Codec/CC                                 : apch
+Duration                                 : 50167
+Duration                                 : 50s 167ms
+Duration                                 : 50s 167ms
+Duration                                 : 50s 167ms
+Duration                                 : 00:00:50.167
+Bit rate mode                            : VBR
+Bit rate mode                            : Variable
+Bit rate                                 : 247212962
+Bit rate                                 : 247 Mbps
+Width                                    : 2048
+Width                                    : 2 048 pixels
+Height                                   : 1167
+Height                                   : 1 167 pixels
+Pixel aspect ratio                       : 1.000
+Display aspect ratio                     : 1.755
+Display aspect ratio                     : 16:9
+Rotation                                 : 0.000
+Frame rate mode                          : CFR
+Frame rate mode                          : Constant
+Frame rate                               : 24.000
+Frame rate                               : 24.000 fps
+Frame count                              : 1204
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 4.310
+Delay                                    : 0
+Delay                                    : 00:00:00.000
+Delay, origin                            : Container
+Delay, origin                            : Container
+Stream size                              : 1550231280
+Stream size                              : 1.44 GiB (100%)
+Stream size                              : 1 GiB
+Stream size                              : 1.4 GiB
+Stream size                              : 1.44 GiB
+Stream size                              : 1.444 GiB
+Stream size                              : 1.44 GiB (100%)
+Proportion of this stream                : 0.99999
+Writing library                          : Apple
+Writing library                          : Apple
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2013-01-29 20:48:26
+Tagged date                              : UTC 2013-01-29 21:06:21
+Matrix coefficients                      : BT.709
+
+

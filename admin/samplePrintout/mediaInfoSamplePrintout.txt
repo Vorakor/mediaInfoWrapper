@@ -1,0 +1,466 @@
+cwd: /Users/sberube  sberube$ mediainfo -f /Volumes/Congo/fluxArt/scriptureLegacy/ref/onSet_nanoCard_recordings/card1/}CLP{/A1069001.MOV 
+General
+Count                                    : 284
+Count of stream of this kind             : 1
+Kind of stream                           : General
+Kind of stream                           : General
+Stream identifier                        : 0
+Count of video streams                   : 1
+Count of audio streams                   : 4
+OtherCount                               : 1
+Video_Format_List                        : MPEG Video
+Video_Format_WithHint_List               : MPEG Video
+Codecs Video                             : MPEG-2 Video
+Video_Language_List                      : English
+Audio_Format_List                        : PCM / PCM / PCM / PCM
+Audio_Format_WithHint_List               : PCM / PCM / PCM / PCM
+Audio codecs                             : PCM / PCM / PCM / PCM
+Audio_Language_List                      : English / English / English / English
+Other_Format_List                        : QuickTime TC
+Other_Format_WithHint_List               : QuickTime TC
+Other_Language_List                      : English
+Complete name                            : /Volumes/Congo/fluxArt/scriptureLegacy/ref/onSet_nanoCard_recordings/card1/}CLP{/A1069001.MOV
+Folder name                              : /Volumes/Congo/fluxArt/scriptureLegacy/ref/onSet_nanoCard_recordings/card1/}CLP{
+File name                                : A1069001
+File extension                           : MOV
+Format                                   : MPEG-4
+Format                                   : MPEG-4
+Format/Extensions usually used           : mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v
+Commercial name                          : MPEG-4
+Format profile                           : QuickTime
+Internet media type                      : video/mp4
+Codec ID                                 : qt  
+Codec ID/Url                             : http://www.apple.com/quicktime/download/standalone.html
+Codec                                    : MPEG-4
+Codec                                    : MPEG-4
+Codec/Extensions usually used            : mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v
+File size                                : 212746240
+File size                                : 203 MiB
+File size                                : 203 MiB
+File size                                : 203 MiB
+File size                                : 203 MiB
+File size                                : 202.9 MiB
+Duration                                 : 7508
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 00:00:07.508
+Overall bit rate                         : 226687523
+Overall bit rate                         : 227 Mbps
+Stream size                              : 1965677
+Stream size                              : 1.87 MiB (1%)
+Stream size                              : 2 MiB
+Stream size                              : 1.9 MiB
+Stream size                              : 1.87 MiB
+Stream size                              : 1.875 MiB
+Stream size                              : 1.87 MiB (1%)
+Proportion of this stream                : 0.00924
+HeaderSize                               : 40
+DataSize                                 : 210911192
+FooterSize                               : 1835008
+IsStreamable                             : No
+Encoded date                             : UTC 2008-06-06 20:25:39
+Tagged date                              : UTC 2008-06-06 20:25:50
+File last modification date              : UTC 2013-09-27 18:54:06
+File last modification date (local)      : 2013-09-27 12:54:06
+
+Video
+Count                                    : 267
+Count of stream of this kind             : 1
+Kind of stream                           : Video
+Kind of stream                           : Video
+Stream identifier                        : 0
+StreamOrder                              : 0
+ID                                       : 1
+ID                                       : 1
+Format                                   : MPEG Video
+Commercial name                          : MPEG-2 Video
+Format version                           : Version 2
+Format profile                           : 4:2:2@High
+Format settings, BVOP                    : No
+Format settings, BVOP                    : No
+Format settings, Matrix                  : Default
+Format settings, Matrix                  : Default
+Format settings, GOP                     : N=1
+Internet media type                      : video/MPV
+Codec ID                                 : xd5d
+Codec ID/Url                             : http://www.apple.com/quicktime/download/standalone.html
+Codec                                    : MPEG-2V
+Codec                                    : MPEG-2 Video
+Codec/Family                             : MPEG-V
+Codec/CC                                 : xd5d
+Codec profile                            : 4:2:2@High
+Codec settings, Matrix                   : Default
+Duration                                 : 7508
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 00:00:07.508
+Bit rate mode                            : CBR
+Bit rate mode                            : Constant
+Bit rate                                 : 219999773
+Bit rate                                 : 220 Mbps
+Maximum bit rate                         : 13561600
+Maximum bit rate                         : 13.6 Mbps
+Width                                    : 1888
+Width                                    : 1 888 pixels
+Original width                           : 1920
+Original width                           : 1 920 pixels
+Height                                   : 1062
+Height                                   : 1 062 pixels
+Original height                          : 1080
+Original height                          : 1 080 pixels
+Pixel aspect ratio                       : 1.000
+Display aspect ratio                     : 1.778
+Display aspect ratio                     : 16:9
+Rotation                                 : 0.000
+Frame rate mode                          : CFR
+Frame rate mode                          : Constant
+Frame rate                               : 23.976
+Frame rate                               : 23.976 fps
+Frame count                              : 180
+Resolution                               : 8
+Resolution                               : 8 bits
+Colorimetry                              : 4:2:2
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Bit depth                                : 8
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Scan type                                : Progressive
+Interlacement                            : PPF
+Interlacement                            : Progressive
+Compression mode                         : Lossy
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 4.576
+Delay                                    : 39354750
+Delay                                    : 10h 55mn
+Delay                                    : 10h 55mn 54s 750ms
+Delay                                    : 10h 55mn
+Delay                                    : 10:55:54.750
+Delay_Settings                           : DropFrame=No / 24HourMax=Yes / IsVisual=No
+Delay_DropFrame                          : No
+Delay, origin                            : Container
+Delay, origin                            : Container
+Stream size                              : 206456243
+Stream size                              : 197 MiB (97%)
+Stream size                              : 197 MiB
+Stream size                              : 197 MiB
+Stream size                              : 197 MiB
+Stream size                              : 196.9 MiB
+Stream size                              : 197 MiB (97%)
+Proportion of this stream                : 0.97043
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2008-06-06 20:25:39
+Tagged date                              : UTC 2008-06-06 20:25:50
+Buffer size                              : 2228224
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+intra_dc_precision                       : 11
+
+Audio #1
+Count                                    : 222
+Count of stream of this kind             : 4
+Kind of stream                           : Audio
+Kind of stream                           : Audio
+Stream identifier                        : 0
+Stream identifier                        : 1
+StreamOrder                              : 1
+ID                                       : 2
+ID                                       : 2
+Format                                   : PCM
+Commercial name                          : PCM
+Format settings                          : Big / Signed
+Format settings, Endianness              : Big
+Format settings, Sign                    : Signed
+Codec ID                                 : lpcm
+Codec                                    : PCM
+Codec                                    : PCM
+Codec/Family                             : PCM
+Codec/CC                                 : lpcm
+Codec settings                           : Big / Signed
+Codec settings, Endianness               : Big
+Codec settings, Sign                     : Signed
+Duration                                 : 7508
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 00:00:07.508
+Bit rate mode                            : CBR
+Bit rate mode                            : Constant
+Bit rate                                 : 1152000
+Bit rate                                 : 1 152 Kbps
+Channel count                            : 1
+Channel count                            : 1 channel
+Sampling rate                            : 48000
+Sampling rate                            : 48.0 KHz
+Samples count                            : 360384
+Resolution                               : 24
+Resolution                               : 24 bits
+Bit depth                                : 24
+Bit depth                                : 24 bits
+Delay                                    : 39354750
+Delay                                    : 10h 55mn
+Delay                                    : 10h 55mn 54s 750ms
+Delay                                    : 10h 55mn
+Delay                                    : 10:55:54.750
+Delay_DropFrame                          : No
+Delay, origin                            : Container
+Delay, origin                            : Container
+Delay relative to video                  : 0
+Video0 delay                             : 0
+Stream size                              : 1081080
+Stream size                              : 1.03 MiB (1%)
+Stream size                              : 1 MiB
+Stream size                              : 1.0 MiB
+Stream size                              : 1.03 MiB
+Stream size                              : 1.031 MiB
+Stream size                              : 1.03 MiB (1%)
+Proportion of this stream                : 0.00508
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2008-06-06 20:25:39
+Tagged date                              : UTC 2008-06-06 20:25:50
+
+Audio #2
+Count                                    : 222
+Count of stream of this kind             : 4
+Kind of stream                           : Audio
+Kind of stream                           : Audio
+Stream identifier                        : 1
+Stream identifier                        : 2
+StreamOrder                              : 2
+ID                                       : 3
+ID                                       : 3
+Format                                   : PCM
+Commercial name                          : PCM
+Format settings                          : Big / Signed
+Format settings, Endianness              : Big
+Format settings, Sign                    : Signed
+Codec ID                                 : lpcm
+Codec                                    : PCM
+Codec                                    : PCM
+Codec/Family                             : PCM
+Codec/CC                                 : lpcm
+Codec settings                           : Big / Signed
+Codec settings, Endianness               : Big
+Codec settings, Sign                     : Signed
+Duration                                 : 7508
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 00:00:07.508
+Bit rate mode                            : CBR
+Bit rate mode                            : Constant
+Bit rate                                 : 1152000
+Bit rate                                 : 1 152 Kbps
+Channel count                            : 1
+Channel count                            : 1 channel
+Sampling rate                            : 48000
+Sampling rate                            : 48.0 KHz
+Samples count                            : 360384
+Resolution                               : 24
+Resolution                               : 24 bits
+Bit depth                                : 24
+Bit depth                                : 24 bits
+Delay                                    : 39354750
+Delay                                    : 10h 55mn
+Delay                                    : 10h 55mn 54s 750ms
+Delay                                    : 10h 55mn
+Delay                                    : 10:55:54.750
+Delay_DropFrame                          : No
+Delay, origin                            : Container
+Delay, origin                            : Container
+Delay relative to video                  : 0
+Video0 delay                             : 0
+Stream size                              : 1081080
+Stream size                              : 1.03 MiB (1%)
+Stream size                              : 1 MiB
+Stream size                              : 1.0 MiB
+Stream size                              : 1.03 MiB
+Stream size                              : 1.031 MiB
+Stream size                              : 1.03 MiB (1%)
+Proportion of this stream                : 0.00508
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2008-06-06 20:25:39
+Tagged date                              : UTC 2008-06-06 20:25:50
+
+Audio #3
+Count                                    : 222
+Count of stream of this kind             : 4
+Kind of stream                           : Audio
+Kind of stream                           : Audio
+Stream identifier                        : 2
+Stream identifier                        : 3
+StreamOrder                              : 3
+ID                                       : 4
+ID                                       : 4
+Format                                   : PCM
+Commercial name                          : PCM
+Format settings                          : Big / Signed
+Format settings, Endianness              : Big
+Format settings, Sign                    : Signed
+Codec ID                                 : lpcm
+Codec                                    : PCM
+Codec                                    : PCM
+Codec/Family                             : PCM
+Codec/CC                                 : lpcm
+Codec settings                           : Big / Signed
+Codec settings, Endianness               : Big
+Codec settings, Sign                     : Signed
+Duration                                 : 7508
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 00:00:07.508
+Bit rate mode                            : CBR
+Bit rate mode                            : Constant
+Bit rate                                 : 1152000
+Bit rate                                 : 1 152 Kbps
+Channel count                            : 1
+Channel count                            : 1 channel
+Sampling rate                            : 48000
+Sampling rate                            : 48.0 KHz
+Samples count                            : 360384
+Resolution                               : 24
+Resolution                               : 24 bits
+Bit depth                                : 24
+Bit depth                                : 24 bits
+Delay                                    : 39354750
+Delay                                    : 10h 55mn
+Delay                                    : 10h 55mn 54s 750ms
+Delay                                    : 10h 55mn
+Delay                                    : 10:55:54.750
+Delay_DropFrame                          : No
+Delay, origin                            : Container
+Delay, origin                            : Container
+Delay relative to video                  : 0
+Video0 delay                             : 0
+Stream size                              : 1081080
+Stream size                              : 1.03 MiB (1%)
+Stream size                              : 1 MiB
+Stream size                              : 1.0 MiB
+Stream size                              : 1.03 MiB
+Stream size                              : 1.031 MiB
+Stream size                              : 1.03 MiB (1%)
+Proportion of this stream                : 0.00508
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2008-06-06 20:25:39
+Tagged date                              : UTC 2008-06-06 20:25:50
+
+Audio #4
+Count                                    : 222
+Count of stream of this kind             : 4
+Kind of stream                           : Audio
+Kind of stream                           : Audio
+Stream identifier                        : 3
+Stream identifier                        : 4
+StreamOrder                              : 4
+ID                                       : 5
+ID                                       : 5
+Format                                   : PCM
+Commercial name                          : PCM
+Format settings                          : Big / Signed
+Format settings, Endianness              : Big
+Format settings, Sign                    : Signed
+Codec ID                                 : lpcm
+Codec                                    : PCM
+Codec                                    : PCM
+Codec/Family                             : PCM
+Codec/CC                                 : lpcm
+Codec settings                           : Big / Signed
+Codec settings, Endianness               : Big
+Codec settings, Sign                     : Signed
+Duration                                 : 7508
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 00:00:07.508
+Bit rate mode                            : CBR
+Bit rate mode                            : Constant
+Bit rate                                 : 1152000
+Bit rate                                 : 1 152 Kbps
+Channel count                            : 1
+Channel count                            : 1 channel
+Sampling rate                            : 48000
+Sampling rate                            : 48.0 KHz
+Samples count                            : 360384
+Resolution                               : 24
+Resolution                               : 24 bits
+Bit depth                                : 24
+Bit depth                                : 24 bits
+Delay                                    : 39354750
+Delay                                    : 10h 55mn
+Delay                                    : 10h 55mn 54s 750ms
+Delay                                    : 10h 55mn
+Delay                                    : 10:55:54.750
+Delay_DropFrame                          : No
+Delay, origin                            : Container
+Delay, origin                            : Container
+Delay relative to video                  : 0
+Video0 delay                             : 0
+Stream size                              : 1081080
+Stream size                              : 1.03 MiB (1%)
+Stream size                              : 1 MiB
+Stream size                              : 1.0 MiB
+Stream size                              : 1.03 MiB
+Stream size                              : 1.031 MiB
+Stream size                              : 1.03 MiB (1%)
+Proportion of this stream                : 0.00508
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2008-06-06 20:25:39
+Tagged date                              : UTC 2008-06-06 20:25:50
+
+Other
+Count                                    : 60
+Count of stream of this kind             : 1
+Kind of stream                           : Other
+Kind of stream                           : Other
+Stream identifier                        : 0
+StreamOrder                              : 5
+ID                                       : 6
+ID                                       : 6
+Type                                     : Time code
+Format                                   : QuickTime TC
+Commercial name                          : QuickTime TC
+Duration                                 : 7508
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 7s 508ms
+Duration                                 : 00:00:07.508
+Time code of first frame                 : 10:55:54:18
+Time code settings                       : Striped
+Title                                    : Flash XDR
+Language                                 : en
+Language                                 : English
+Language                                 : English
+Language                                 : en
+Language                                 : eng
+Language                                 : en
+Encoded date                             : UTC 2008-06-06 20:25:39
+Tagged date                              : UTC 2008-06-06 20:25:50
